@@ -6,10 +6,18 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedmamdouh-mm/EXCEPTION.git"
+  },
   "keywords": [],
   "author": "",
-  "homepage": "https://mohamedmamdouh-mm.github.io/EXCEPTION",
+  "homepages": "https://mohamedmamdouh-mm.github.io/EXCEPTION",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedmamdouh-mm/EXCEPTION/issues"
+  },
+  "homepage": "https://github.com/mohamedmamdouh-mm/EXCEPTION#readme",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
