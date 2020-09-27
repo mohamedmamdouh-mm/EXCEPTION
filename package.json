@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d books"
+    "deploy": "gh-pages -d solid"
   },
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "",
-  "homepages": "https://mohamedmamdouh-mm.github.io/books",
+  "homepages" : "https://mohamedmamdouh-mm.github.io/EXCEPTION",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mohamedmamdouh-mm/EXCEPTION/issues"
